@@ -1,0 +1,6 @@
+[submodule "themes/educenter"]
+	path = themes/educenter
+	url = https://github.com/themefisher/educenter-hugo
+[submodule "coding4kids/themes/educenter"]
+	path = coding4kids/themes/educenter
+	url = https://github.com/themefisher/educenter-hugo
