@@ -34,6 +34,7 @@ jobs:
         run: |
           cd src/coding4kids
           hugo -D -d coding4kids
+          cd ../../
 
       - name: push
         uses: github-actions-x/commit@v2.7
