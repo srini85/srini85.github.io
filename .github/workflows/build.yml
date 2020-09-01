@@ -30,4 +30,6 @@ jobs:
           hugo-version: '0.74.2'
       
       - name: Build
-        run: hugo -D -d coding4kids -c src/coding4kids
+        run: |
+          cd src/coding4kids
+          hugo -D -d coding4kids
