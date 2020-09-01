@@ -1,18 +1,324 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>https://srini85.github.io/coding4kids/en/sitemap.xml</loc>
-		
-	   	<lastmod>2030-03-09T15:27:17+06:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>https://srini85.github.io/coding4kids/fr/sitemap.xml</loc>
-		
-	   	<lastmod>2019-07-06T15:27:17+06:00</lastmod>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/event/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/event/event-1/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/event/event-2/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/event/event-3/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/event/event-4/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/event/event-5/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/event/event-6/</loc>
+    <lastmod>2030-03-09T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/tags/advice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/tags/ai/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/course/course-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/course/course-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/tags/automation/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/categories/automation-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/categories/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/categories/deep-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/tags/eco/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/categories/eco-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/tags/education/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/categories/education-system/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/blog/blog-post-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/blog/blog-post-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/blog/blog-post-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/blog/blog-post-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/blog/blog-post-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/blog/blog-post-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/tags/english/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/categories/english-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/research/research-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/research/research-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/research/research-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/research/research-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/research/research-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/research/research-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/course/course-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/blog/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/course/course-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/categories/mathmatics-learning/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/notice/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/course/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/research/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/course/course-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/tags/rules/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/tags/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/notice/notice-1/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/notice/notice-2/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/notice/notice-3/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/notice/notice-4/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/notice/notice-5/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/notice/notice-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/course/course-6/</loc>
+    <lastmod>2019-07-06T15:27:17+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/teacher/alex-rook/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/author/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/scholarship/scholarship-1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/scholarship/scholarship-2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/scholarship/scholarship-3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/teacher/clark-malik/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/teacher/devid-luis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/teacher/duis-rio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/teacher/jacke-mastio/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/author/john-doe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/author/mark-dinn/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/teacher/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/scholarship/</loc>
+  </url>
+  
+  <url>
+    <loc>https://srini85.github.io/coding4kids/teacher/zim-cook/</loc>
+  </url>
+  
+</urlset>
