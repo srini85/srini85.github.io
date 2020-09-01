@@ -37,9 +37,9 @@ jobs:
       
       - name: Set Working directory
         run: |
-          echo $PATH
+          echo $PWD
           cd ../../
-          echo $PATH
+          echo $PWD
         shell: bash
 
       - name: push
