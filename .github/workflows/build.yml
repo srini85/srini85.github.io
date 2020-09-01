@@ -34,7 +34,13 @@ jobs:
         run: |
           cd src/coding4kids
           hugo -D -d coding4kids
+      
+      - name: Set Working directory
+        run: |
+          echo $PATH
           cd ../../
+          echo $PATH
+        shell: bash
 
       - name: push
         uses: github-actions-x/commit@v2.7
