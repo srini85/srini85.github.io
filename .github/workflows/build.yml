@@ -34,10 +34,12 @@ jobs:
         run: |
           cd src/coding4kids
           hugo -D -d coding4kids
+          cd ../../
 
       - name: push
         uses: EndBug/add-and-commit@v4
         with:
+          cwd: './'
           message: 'publish'
           force: 'true'
           author_name: Srini CI
