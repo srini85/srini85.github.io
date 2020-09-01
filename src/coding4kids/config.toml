@@ -50,14 +50,9 @@ URL = "about"
 weight = 1
 
 [[menu.main]]
-name = "course"
-URL = "course"
-weight = 2
-
-[[menu.main]]
 weight = 3
 name = "Pages"
-hasChildren = true
+asChildren = true
 
   [[menu.main]]
   parent = "Pages"
@@ -83,11 +78,6 @@ hasChildren = true
   parent = "Pages"
   name = "research"
   URL = "research"
-  
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 4
   
 [[menu.main]]
 name = "Contact"
@@ -125,9 +115,10 @@ logo = "images/logo.png"
 description = "This is meta description"
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@educenter.com"
+address = "Sydney, NSW Australia"
+mobile = ""
+whatsappgroup="https://chat.whatsapp.com/GYhcBTqE5tYGTSPZmqfg5V"
+email = "srini@sriomcare.org.au"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -167,16 +158,6 @@ icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
 link = "#"
 
 [[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 link = "#"
@@ -189,16 +170,5 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
 # copyright
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
