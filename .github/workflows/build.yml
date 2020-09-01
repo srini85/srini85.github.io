@@ -34,3 +34,14 @@ jobs:
         run: |
           cd src/coding4kids
           hugo -D -d coding4kids
+
+      - name: push
+        uses: github-actions-x/commit@v2.7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          push-branch: 'master'
+          commit-message: 'publish'
+          force-add: 'true'
+          files: coding4kids/
+          name: Srini CI
+          email: srini85@gmail.com
