@@ -79,8 +79,8 @@
 - id: enter_email
   translation: Enter your email…
 
-- id: company
-  translation: company
+- id: organisation
+  translation: organisation
 
 - id: links
   translation: links
