@@ -77,22 +77,15 @@ about:
     label : "Learn more"
     link : "about"
 
-
-############################# Course ################################
-course:
-  enable : true
-  title : "Our Course"
-  # course item comes from "content/**/course" folder.
-
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : "Click to register your child or yourself as a volunteer"
+  title : "Coding for Kids"
   button:
     enable : true
-    label : "join now"
-    link : "contact"
+    label : "register"
+    link : "https://bit.ly/coding4kids-sv"
 
 
 ######################## Success story #############################
