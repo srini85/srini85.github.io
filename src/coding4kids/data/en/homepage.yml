@@ -43,24 +43,24 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Fun"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Brings a fun and exiciting environment for kids to learn coding"
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Stay Tuned"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We are getting things together to have this started in no time. Join our whatsapp group to get the latest. http://bit.ly/coding4kids-wg"
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "K-6 Students"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We are taking kids from the age of 4+ to join and participate"
 
     # feature item loop
-    - name : "Admission Now"
+    - name : "Register Now"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We are taking registration and expression of interest now"
 
 
 ############################## about ##################################
@@ -86,21 +86,6 @@ cta:
     enable : true
     label : "register"
     link : "https://bit.ly/coding4kids-sv"
-
-
-######################## Success story #############################
-success_story:
-  enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
-  # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
-
 
 ############################# event ################################
 event:
