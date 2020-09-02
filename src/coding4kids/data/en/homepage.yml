@@ -5,36 +5,25 @@ slider:
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Coding for kids is run by volunteers and professionals in the software field to give your child the logical thinking skills and showcase their creative talent in a fun way"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact"
+        label : "Register now"
+        link : "http://bit.ly/coding4kids-wg"
 
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      content : "Coding for kids is run by volunteers and professionals in the software field to give your child the logical thinking skills and showcase their creative talent in a fun way"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
       button:
         enable : true
-        label : "Apply now"
-        link : "contact"
-
-    # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
-      animation_in : "left"
-      animation_out : "right"
-      # available animation : left, right, up, down
-      button:
-        enable : true
-        label : "Apply now"
-        link : "contact"
+        label : "Register now"
+        link : "http://bit.ly/coding4kids-wg"
 
 
 ############################### Banner feature ###############################
@@ -43,24 +32,24 @@ banner_feature:
   image : "images/banner/banner-feature.png"
   feature_item:
     # feature item loop
-    - name : "Scholorship News"
+    - name : "Fun"
       icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "Brings a fun and exiciting environment for kids to learn coding"
 
     # feature item loop
-    - name : "Our Notice Board"
+    - name : "Stay Tuned"
       icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We are getting things together to have this started in no time. Join our whatsapp group to get the latest. http://bit.ly/coding4kids-wg"
 
     # feature item loop
-    - name : "Our Achievements"
+    - name : "K-6 Students"
       icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We are taking kids from the age of 4+ to join and participate"
 
     # feature item loop
-    - name : "Admission Now"
+    - name : "Register Now"
       icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
+      content : "We are taking registration and expression of interest now"
 
 
 ############################## about ##################################
@@ -68,46 +57,21 @@ about:
   enable : true
   title : "About Coding for kids"
   image : "images/about/about-us.jpg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat
-
-
-  cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem "
+  content : "Stay Tuned for more information "
   button:
-    enable : true
+    enable : false
     label : "Learn more"
     link : "about"
-
-
-############################# Course ################################
-course:
-  enable : true
-  title : "Our Course"
-  # course item comes from "content/**/course" folder.
 
 ########################## Call to action ############################
 cta:
   enable : true
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  subtitle : "Click to register your child or yourself as a volunteer"
+  title : "Coding for Kids"
   button:
     enable : true
-    label : "join now"
-    link : "contact"
-
-
-######################## Success story #############################
-success_story:
-  enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
-            
-            
-  ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-  dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
-  # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
-
+    label : "register"
+    link : "https://bit.ly/coding4kids-sv"
 
 ############################# event ################################
 event:
