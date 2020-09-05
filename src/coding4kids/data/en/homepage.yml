@@ -82,10 +82,10 @@ event:
   
 ########################### funfacts ############################
 funfacts:
-  enable : true
+  enable : false
   funfact_item:
     # funfact item loop
-    - name : "TEACHERS"
+    - name : "Eucators"
       count : "60"
 
     # funfact item loop
