@@ -4,20 +4,17 @@ draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # about image
-image: "images/about/about-page.jpg"
+image: "images/about/computer.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "We saw the excitement of coding when we were children. Now we can pass on those same learnings to our next generation"
 ---
 
-## ABOUT OUR JOURNY
+## ABOUT THE PROGRAM
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
+We all know there is more and more demand for STEM related jobs (science, technology, engineering and mathematics). More than ever, we need creative and logical thinkers to solve our biggest problems in the world. 
 
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+Coding for kids is about giving the opportunity for your child to get cretive and be able to solve problems like the smartest minds in technology. We believe in teaching kids in a fun and exciting way so that they apply the skills in their every day lives.
+
+With the right tools, guidance and environment, we can see our children of today build amazing things and unleash all their hidden creative talents.
+
+The program is run by volunteers and on not for profit basis to with the intention to enable our children to deliver changes to society through technology.
