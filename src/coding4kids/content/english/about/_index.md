@@ -15,4 +15,6 @@ We all know there is more and more demand for STEM related jobs (science, techno
 
 Coding for kids is about giving the opportunity for your child to get cretive and be able to solve problems like the smartest minds in technology. We believe in teaching kids in a fun and exciting way so that they apply the skills in their every day lives.
 
-With the right tools, guidance and environment, we can see our children of today build amazing things and unleash all their hidden creative talents
+With the right tools, guidance and environment, we can see our children of today build amazing things and unleash all their hidden creative talents.
+
+The program is run by volunteers and on not for profit basis to with the intention to enable our children to deliver changes to society through technology.
