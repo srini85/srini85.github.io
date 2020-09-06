@@ -54,21 +54,7 @@ name = "Sign Up"
 URL = "https://bit.ly/coding4kids-sv"
 weight = 2
 
-[[menu.main]]
-weight = 3
-name = "Details"
-asChildren = true
-
-  [[menu.main]]
-  parent = "Details"
-  name = "educators"
-  URL = "teacher"
-
 # footer menu
-
-[[menu.footer]]
-name = "educators"
-URL = "teacher"
 
 [[menu.footer]]
 name = "notice"
