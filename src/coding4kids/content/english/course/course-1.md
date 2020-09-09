@@ -6,7 +6,7 @@ draft: false
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "This course is aimed at first timers. Ideal for kids aged between 4 and 7"
-summary : "This course is aimed at first timers. Ideal for kids aged between 4 and 7"
+summary : "This course is ideal for kids aged between 4-7. Series of fun exercises that teaches them to code"
 # course thumbnail
 summaryimage: "images/courses/course-1.jpg"
 image: "images/courses/course-1-high.jpg"
@@ -29,45 +29,40 @@ type: "course"
 
 ### About Course
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+This course is aimed at the young children who are going to be coding for the first time. A series of workshops and exercises will be provided to the children that will enable them to think logically and creatively. After completing the course, the children would have grasped the fundamental knowledge and be able to build exciting things using block languages.
 
-### Requirements
+### How it is run
 
+* 12 Week course
+* 8 modules will be run online in groups
+* 4 modules will be face to face
+* Each session will run for 1 hour
+* Prework and homework for some modules may be required
 
+<sup>Course structure may change based on regulations and availabilities</sup>
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+### What they will learn and do
 
+* Introduction to Coding with blocks using Google developed software called - blockly
+* Learn about core components that make up real life programs  
+* Complete a series of interactive games and puzzles with blockly 
+* Learn about Scratch Junior 
+* Work with experts in the Computer science field to break down large problems and come up with solutions 
+* Develop interactive stories and games using Scratch Junior
+* Perform mathematics, computational and logical problems
+* Work with other kids to problem solve and build apps and games they can share
 
-### How to Apply
+### Key Outcomes
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+* Learn the fundamentals of computer science in a fun an exciting way
+* Learn Problem solving techniques as individuals and groups 
+* Logical thinking skills that can be applied all around us
+* Foster creativity and bring things to life with code
+* Utilising trial and error techniques to come up with solutions
+* Enhance graphical design skills 
+* Develop skills in all aspects of STEM (Science, technology, engineering and mathematics) 
 
+### Costs
 
-### Fees and Funding
+TBA
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
