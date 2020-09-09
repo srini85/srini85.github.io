@@ -1,23 +1,25 @@
 ---
-title: "Photography"
-date: 2019-07-06T15:27:17+06:00
+title: "Little Champions"
+date: 2020-01-10T00:00:00+10:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "This course is aimed at first timers. Ideal for kids aged between 4 and 7"
+summary : "This course is aimed at first timers. Ideal for kids aged between 4 and 7"
 # course thumbnail
-image: "images/courses/course-1.jpg"
+summaryimage: "images/courses/course-1.jpg"
+image: "images/courses/course-1-high.jpg"
 # taxonomy
-category: "Photography"
+category: "Entry Level"
 # teacher
-teacher: "Clark Malik"
+#teacher: "Clark Malik"
 # duration
-duration : "06 Month"
+duration : "12 Weeks"
 # weekly
-weekly : "03 hours"
+weekly : "1 hour"
 # course fee
-fee : "From: $699"
+fee : "TBA"
 # apply url
 apply_url : "#"
 # type

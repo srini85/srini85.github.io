@@ -7,17 +7,18 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # course thumbnail
+summaryimage: "images/courses/course-2.jpg"
 image: "images/courses/course-2.jpg"
 # taxonomy
 category: "Mathematics"
 # teacher
-teacher: "Jacke Mastio"
+#teacher: "Jacke Mastio"
 # duration
-duration : "06 Month"
+duration : "12 Weeks"
 # weekly
-weekly : "03 hours"
+weekly : "1.5 hours"
 # course fee
-fee : "From: $699"
+fee : "TBA"
 # apply url
 apply_url : "#"
 # type

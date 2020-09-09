@@ -7,6 +7,7 @@ bg_image: "images/backgrounds/page-title.jpg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # course thumbnail
+summaryimage: "images/courses/course-3.jpg"
 image: "images/courses/course-3.jpg"
 # taxonomy
 category: "Artificial Intelligence"
