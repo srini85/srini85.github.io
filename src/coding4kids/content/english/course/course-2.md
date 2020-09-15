@@ -1,11 +1,12 @@
 ---
 title: "Tiger"
 date: 2020-01-10T00:00:01+10:00
-draft: true
+draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "The course is ideal for children who are aged between 5 and 8. It is aimed at helping kids problem solve through code."
+summary : "Ideal for kids aged between 5-8. Course walks through block coding and solving problems with code."
 # course thumbnail
 summaryimage: "images/courses/tiger.png"
 image: "images/courses/tiger.png"
@@ -16,7 +17,7 @@ category: "Intermediate"
 # duration
 duration : "12 Weeks"
 # weekly
-weekly : "1.5 hours"
+weekly : "1 hour"
 # course fee
 fee : "TBA"
 # apply url
@@ -25,48 +26,39 @@ apply_url : "#"
 type: "course"
 ---
 
-
 ### About Course
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+This course is aimed at the young children who may have have been introduced to block based coding (although not a requirement). We will walk through the fundamentals of block based code and step through a series of exerices to help kids think and solve problems with code.
 
-### Requirements
+### How it is run
 
+* 12 Week course
+* 8 modules will be run online in groups
+* 4 modules will be face to face
+* Each session will run for 1 hour
+* Prework and homework for some modules may be required
 
+<sup>Course structure may change based on regulations and availabilities</sup>
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+### What they will learn and do
 
+* Introduction to Coding with blocks using Google developed software called - blockly
+* Develop their understanding of computer science fundamentals
+* Solve puzzles and games with block based code
+* Work with experts in the Computer science field to break down large problems and come up with solutions 
+* Perform mathematics, computational and logical problems
+* Work with other kids to problem solve and build apps and games they can share
 
-### How to Apply
+### Key Outcomes
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+* Learn the fundamentals of computer science in a fun an exciting way
+* Be able to think logically to solve real world problems
+* Learn problem solving techniques as individuals and groups 
+* Foster creativity and bring things to life with code
+* Utilising trial and error techniques to come up with solutions
+* Enhance graphical design skills 
+* Develop skills in all aspects of STEM (Science, technology, engineering and mathematics) 
 
+### Costs
 
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+TBA
