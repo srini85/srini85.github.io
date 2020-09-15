@@ -69,10 +69,28 @@
     <item>
       <title>Panda</title>
       <link>https://srini85.github.io/coding4kids/course/course-1/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +1000</pubDate>
+      <pubDate>Fri, 10 Jan 2020 00:00:03 +1000</pubDate>
       
       <guid>https://srini85.github.io/coding4kids/course/course-1/</guid>
       <description>This course is ideal for kids aged between 4-7. Series of fun exercises that teaches them to code</description>
+    </item>
+    
+    <item>
+      <title>Tiger</title>
+      <link>https://srini85.github.io/coding4kids/course/course-2/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:01 +1000</pubDate>
+      
+      <guid>https://srini85.github.io/coding4kids/course/course-2/</guid>
+      <description>About Course Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</description>
+    </item>
+    
+    <item>
+      <title>Lion</title>
+      <link>https://srini85.github.io/coding4kids/course/course-3/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +1000</pubDate>
+      
+      <guid>https://srini85.github.io/coding4kids/course/course-3/</guid>
+      <description>Ideal for kids aged between 8-12. Course steps up kids into writing real applications.</description>
     </item>
     
     <item>
