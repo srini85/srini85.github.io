@@ -1,24 +1,22 @@
 ---
-title: "Artificial Intelligence"
-date: 2021-07-06T15:27:17+06:00
+title: "Lion"
+date: 2020-01-10T00:00:00+10:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# course thumbnail
-summaryimage: "images/courses/course-3.jpg"
-image: "images/courses/course-3.jpg"
+description : "The course is ideal for children who have used block based coding before. It is aimed at taking kids to the next level in developing real life applications."
+summary : "Ideal for kids aged between 8-12. Course steps up kids into writing real applications."
+summaryimage: "images/courses/lion.png"
+image: "images/courses/lion.png"
 # taxonomy
-category: "Artificial Intelligence"
-# teacher
-teacher: "Alex Rook"
+category: "Advanced"
 # duration
-duration : "06 Month"
+duration : "12 Weeks"
 # weekly
-weekly : "03 hours"
+weekly : "1 hour"
 # course fee
-fee : "From: $699"
+fee : "TBA"
 # apply url
 apply_url : "#"
 # type
@@ -28,45 +26,42 @@ type: "course"
 
 ### About Course
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+This course is aimed at the young children who have used block based languages before and are now ready to take their knowledge to the next level. We will recap the basic fundamentals of coding before getting into exciting content that will enable the children to be creative and build real life games and applications.
 
-### Requirements
+### How it is run
 
+* 12 Week course
+* 8 modules will be run online in groups
+* 4 modules will be face to face
+* Each session will run for 1 hour
+* Prework and homework for some modules may be required
 
+<sup>Course structure may change based on regulations and availabilities</sup>
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
-* Lorem ipsum dolor sit amet consectetur adipisicing elit.
+### What they will learn and do
 
+* Introduction to Coding with blocks using Google developed software called - blockly
+* Refresh their understanding of computer science fundamentals
+* Dive into deeper concepts of coding through interactive games
+* Look at block based and text based code
+* Go through a series of exercises week on week to end up making a game
+* Work with robotics kits and program them to solve problems
+* Work with experts in the Computer science field to break down large problems and come up with solutions 
+* Perform mathematics, computational and logical problems
+* Work with other kids to problem solve and build apps and games they can share
 
-### How to Apply
+### Key Outcomes
 
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
+* Learn the fundamentals of computer science in a fun an exciting way
+* Be able to create apps and games to solve real world problems
+* Learn Problem solving techniques as individuals and groups 
+* Be comfortable in working with text based coding environments
+* Logical thinking skills that can be applied all around us
+* Foster creativity and bring things to life with code
+* Utilising trial and error techniques to come up with solutions
+* Enhance graphical design skills 
+* Develop skills in all aspects of STEM (Science, technology, engineering and mathematics) 
 
+### Costs
 
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+TBA
