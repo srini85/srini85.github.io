@@ -5,7 +5,7 @@ slider:
   slider_item:
     # slider item loop
     - title : "Your bright future is our mission"
-      content : "Coding for kids is run by volunteers and professionals in the software field to give your child the logical thinking skills and showcase their creative talent in a fun way"
+      content : "Coding for kids is run by professionals in the software field to give your child the logical thinking skills and showcase their creative talent in a fun way"
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -15,8 +15,8 @@ slider:
         link : "http://bit.ly/coding4kids-wg"
 
     # slider item loop
-    - title : "Your bright future is our mission"
-      content : "Coding for kids is run by volunteers and professionals in the software field to give your child the logical thinking skills and showcase their creative talent in a fun way"
+    - title : "Community run initiative"
+      content : "We are not for profit entity and giving back to the community and the young generation through the skills and knowledge we have been picked up on our journey."
       animation_in : "left"
       animation_out : "right"
       # available animation : left, right, up, down
@@ -37,13 +37,13 @@ banner_feature:
       content : "Brings a fun and exiciting environment for kids to learn coding"
 
     # feature item loop
-    - name : "Stay Tuned"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "We are getting things together to have this started in no time. Join our whatsapp group to get the latest. http://bit.ly/coding4kids-wg"
+    - name : "Not for profit"
+      icon : "ti-thumb-up" # icon pack : https://themify.me/themify-icons
+      content : "A not for profit initiative run by professionals to give your child a great learning experience"
 
     # feature item loop
     - name : "K-6 Students"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      icon : "ti-face-smile" # icon pack : https://themify.me/themify-icons
       content : "We are taking kids from the age of 4+ to join and participate"
 
     # feature item loop
