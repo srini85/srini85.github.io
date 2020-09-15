@@ -1,6 +1,6 @@
 ---
 title: "Panda"
-date: 2020-01-10T00:00:00+10:00
+date: 2020-01-10T00:00:03+10:00
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -8,8 +8,8 @@ bg_image: "images/backgrounds/page-title.jpg"
 description : "This course is aimed at first timers. Ideal for kids aged between 4 and 7"
 summary : "This course is ideal for kids aged between 4-7. Series of fun exercises that teaches them to code"
 # course thumbnail
-summaryimage: "images/courses/course-1.jpg"
-image: "images/courses/course-1-high.jpg"
+summaryimage: "images/courses/panda.png"
+image: "images/courses/panda.png"
 # taxonomy
 category: "Entry Level"
 # teacher
