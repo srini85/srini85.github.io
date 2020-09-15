@@ -1,5 +1,5 @@
 ---
-title: "Little Champions"
+title: "Panda"
 date: 2020-01-10T00:00:00+10:00
 draft: false
 # page title background image
