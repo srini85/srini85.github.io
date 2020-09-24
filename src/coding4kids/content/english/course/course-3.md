@@ -16,7 +16,7 @@ duration : "12 Weeks"
 # weekly
 weekly : "1 hour"
 # course fee
-fee : "TBA"
+fee : "$100"
 # apply url
 apply_url : "#"
 # type
@@ -64,4 +64,6 @@ This course is aimed at the young children who have used block based languages b
 
 ### Costs
 
-TBA
+The cost of the program is $100 per child for the entire duration of the course. 
+
+We are an approve Creative Kids Service Provider in NSW and the vouchers can be used for the course fee

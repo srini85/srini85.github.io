@@ -55,9 +55,9 @@ banner_feature:
 ############################## about ##################################
 about:
   enable : true
-  title : "About Coding for kids"
-  image : "images/home/super_hero.png"
-  content : "Stay Tuned for more information "
+  title : "About Us"
+  image : "images/creativekids_decal_digital_500.png"
+  content : "The program is a community run initiative aimed at providing the best learning experience for children. Our aim is to make the program as accessible as possible whilst keeping costs to a minimum. We are a registered creative kids service provider."
   button:
     enable : false
     label : "Learn more"
